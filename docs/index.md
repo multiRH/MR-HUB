@@ -1,6 +1,6 @@
-# Multi-Research HUB
+# MR-HUB
 
-This research group investigates the topics related to the environment such as:
+The MultiResearch-Hub investigates the topics related to the environment such as:
 
 * [Monitoring of Volcanic Activity](research/volcan.md)
 * [Monitoring of Air Quality](research/air_quality.md)
