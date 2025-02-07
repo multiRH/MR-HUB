@@ -1,0 +1,54 @@
+site_name: Multi-Research HUB
+nav:
+  - Home: index.md
+  - Research:
+      - Air Quality: research/air_quality.md
+      - Mangroves: research/mangroves.md
+      - Thermic Heat: research/thermic.md
+      - Urban Noise: research/urban_noise.md
+      - Volcanic Activity: research/volcan.md
+      - Water Quality: research/water_quality.md
+  - Conferences: conferences_2025.md
+  - Publications: publication_list.md
+  - News: latest_2025.md
+  - About: about.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.follow
+    - toc.integrate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.top
+    - content.code.copy
+    - content.tabs.link
+    - search.suggest
+    - search.highlight
+  language: en
+  logo: mr_hub_logo.png
+  favicon: mr_hub_logo.png
+  icon:
+    repo: material/git
+    edit: material/pencil
+    view: material/eye
+  palette:
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: custom
+      accent: custom
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/brightness-3
+        name: Switch to light mode
+      primary: custom
+      accent: custom
