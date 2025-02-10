@@ -1,6 +1,6 @@
 # Publications
 
-## Journal
+## Journals
 
 Castillo-Rosales, B. A., Segovia-López, L. D., Pocasangre, C., Flores, O. O., &
 Arevalo-Navas, F. (2024). ["Estudio de calidad del aire presente en el área metropolitana
