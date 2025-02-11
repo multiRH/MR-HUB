@@ -7,6 +7,7 @@ In El Salvador, climate monitoring is limited, with only 27 weather stations cov
 The method was tested in the rural cities of Berlin, Alegría, and Santiago de María, demonstrating its effectiveness in identifying potential agricultural stressors like heatwaves and water scarcity. This research provides a scalable solution for climate monitoring and land-use decision-making in regions with limited resources.
 
 ![thermal.jpg](../images_index/thermal.jpg)
+Art by Pixabay. Photo from GPoulsen.  
 
 ## Publications
 

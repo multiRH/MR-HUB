@@ -7,6 +7,7 @@ This study proposes a low-cost IoT-based system for real-time water quality moni
 A pilot test was conducted in a fish farm in El Salvador, demonstrating that the system effectively tracks water parameters. The results highlight its potential as an affordable and efficient solution for aquaculture and other water-dependent industries. This technology offers a scalable approach to improving water quality management in resource-limited regions.
 
 ![water.jpg](../images_index/water.jpg)
+Art by Pixabay. Photo from Jan-Mallander. 
 
 ## Publications
 

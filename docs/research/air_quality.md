@@ -7,6 +7,7 @@ To address this issue, we developed a low-cost, mobile IoT-based system to monit
 A prototype was tested over a one-month period on 15 routes across San Salvador, revealing that air quality generally ranged from good to moderate. This innovative approach provides an affordable solution for public and private organizations to improve air quality monitoring and urban planning.
 
 ![AQ.jpg](../images_index/AQ.jpg)
+Art by Pixabay. Photo from SD-Pictures. 
 
 ## Publications
 

@@ -7,6 +7,7 @@ To modernize this process, we developed an IoT-based system that upgrades existi
 A pilot test at Cerro Pacho demonstrated the system’s effectiveness in improving CO₂ surveillance. By upgrading existing equipment rather than replacing it, this solution offers a cost-efficient way to enhance volcanic monitoring in El Salvador and similar high-risk regions worldwide.
 
 ![volcano.jpg](../images_index/volcano.jpg)
+Art by Pixabay. Photo from Pixaline.  
 
 ## Publications
 
