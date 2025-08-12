@@ -11,6 +11,11 @@ De El Salvador, 7(3), 119–128. https://doi.org/10.5377/revminerva.v7i3.18911.
 
 ## Chapters
 
+Flores-Cortez, O.O., Arévalo, F., Pocasangre, C.O., Mejia, J., Mármol, M. (2025). ["Geothermal Heat Flux Mapping Using 
+Satellite Remote Sensing, Case Studies in the Hot Springs of El Salvador: San Vicente, Ahuachapán, San Miguel and La Union"](https://link.springer.com/chapter/10.1007/978-3-031-85324-1_2). 
+In: Nesmachnow, S., Hernández Callejo, L. (eds) Smart Cities. ICSC-CITIES 2024. Communications in Computer and Information Science, 
+vol 2394. Springer, Cham. https://doi.org/10.1007/978-3-031-85324-1_2
+
 Flores-Cortez, O.O., Pocasangre, C., Arévalo, F., Hernández, S. (2024). ["Estimation
 of Land Surface Temperature Using Satellite Remote Sensing, a Case Study in the
 Cities from El Salvador: Berlin, Alegría, and Santiago de María."](https://www.researchgate.net/publication/385633564_Estimation_of_Land_Surface_Temperature_Using_Satellite_Remote_Sensing_a_Case_Study_in_the_Cities_from_El_Salvador_Berlin_Alegria_and_Santiago_de_Maria) In: Carlos-Martinez,
@@ -22,16 +27,25 @@ in Geoinformation and Cartography. Springer, Cham. https://doi.org/10.1007/978-
 
 ## Proceedings
 
-González, J.G., Arauz, C.A., Jimenez, C.P., Flores-Cortez, O.O., Arévalo, F., Paternina, M.R., Guerrero, J.M., Valle, W.D., and López, J.R., 
-"Descriptive Analysis of Frequency on the Electrical Grid in El Salvador. 
-A Preliminary Approach from September 2022 to June 2023," 2024 IEEE Central America and Panama Student Conference (CONESCAPAN), 
-Panama, Panama, 2024, pp. 1-6, doi: 10.1109/CONESCAPAN62181.2024.10891093.
+O. O. Flores-Cortez, F. Arévalo and C. P. Jimenez, ["Portable IoT-Based System for GIS Mapping of Urban Noise: 
+a Case Study in Downtown San Salvador,"](https://www.researchgate.net/publication/392634811_Portable_IoT-Based_System_for_GIS_Mapping_of_Urban_Noise_a_Case_Study_in_Downtown_San_Salvador) 2025 IEEE Conference on Technologies for Sustainability (SusTech), 
+Los Angeles, CA, USA, 2025, pp. 1-7, doi: 10.1109/SusTech63138.2025.11025801. 
+
+J. G. Lúe González, C. A. Arce Aráuz, C. O. Pocasangre, O. O. Flores-Cortez, F. Arévalo, M. R. Arrieta Paternina, J. M. Ramos Guerrero, 
+W. D. Meléndez Valle and J. R. Ramos López, ["Analysis of Frequency in El Salvador’s Power Grid: Understanding the period of 2022 to 2023"](https://www.researchgate.net/publication/390221656_Analysis_of_Frequency_in_El_Salvador's_Power_Grid_Understanding_the_period_of_2022_to_2023), 
+2024 IEEE 42nd Central America and Panama Convention (CONCAPAN XLII), San Jose, Costa Rica, 2024, pp. 1-6, 
+doi: 10.1109/CONCAPAN63470.2024.10933888. 
 
 O. O. Flores-Cortez, C. O. Pocasangre, F. Arévalo, D. A. Solis, J. O. Comayagua
 and B. H. Miranda, ["IoT for CO2 Surveillance in Volcanic Soil Using a Web-Based
 Monitoring and the LI-830 sensor. Study case in Cerro Pacho, El Salvador,"](https://www.researchgate.net/publication/386168467_IoT_for_CO_2_Surveillance_in_Volcanic_Soil_Using_a_Web-Based_Monitoring_and_the_LI-830_sensor_Study_case_in_Cerro_Pacho_El_Salvador) 2024
 International Symposium on Networks, Computers and Communications (ISNCC),
 Washington DC, DC, USA, 2024, pp. 1-5, doi: 10.1109/ISNCC62547.2024.10759000.
+
+González, J.G., Arauz, C.A., Jimenez, C.P., Flores-Cortez, O.O., Arévalo, F., Paternina, M.R., Guerrero, J.M., Valle, W.D., and López, J.R., 
+"Descriptive Analysis of Frequency on the Electrical Grid in El Salvador. 
+A Preliminary Approach from September 2022 to June 2023," 2024 IEEE Central America and Panama Student Conference (CONESCAPAN), 
+Panama, Panama, 2024, pp. 1-6, doi: 10.1109/CONESCAPAN62181.2024.10891093.
 
 O. O. Flores-Cortez, C. O. Pocasangre, F. Arevalo, B. A. Castillo and L. D. Segovia,
 ["Mobile Air Quality Sensor System for GIS Mapping, Study Case in San Salvador](https://www.researchgate.net/publication/386120594_Mobile_Air_Quality_Sensor_System_for_GIS_Mapping_Study_Case_in_San_Salvador_City)
