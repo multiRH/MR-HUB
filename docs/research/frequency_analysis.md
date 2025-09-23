@@ -4,7 +4,7 @@ Reliable electricity depends on a stable frequency, yet Central America has few 
 
 The study also links local frequency shifts to regional events by cross-referencing public reports of generation or load losses from the Regional Operating Entity (EOR), including impacts from the Mexican interconnection. This work shows why continuous monitoring and open regional data are key to identifying weak points, preventing outages, and supporting a more resilient power network for El Salvador and its neighbors.
 
-![AQ.jpg](../images_index/FREQ.jpg)
+![FREQ.jpg](../images_index/FREQ.jpg)
 Art by Pixabay. Photo from Vladimir Fill. 
 
 ## Publications
