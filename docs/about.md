@@ -24,6 +24,7 @@ and augmented reality for industrial and environmental applications.
 He received his Engineer degree in electrical engineering from the Universidad de El Salvador, San Salvador, El Salvador, in 2005. 
 	Since 2005 he works as a lecture and researcher for the electronics department in the Universidad Tecnológica de El Salvador, San Salvador, El Salvador.
 	His research interests include embedded systems, IoT systems.
+
 [ResearchGate](https://www.researchgate.net/profile/Omar-Flores-Cortez)
 
 [LinkedIn](https://www.linkedin.com/in/omar-otoniel-flores-cortez-730325212/)

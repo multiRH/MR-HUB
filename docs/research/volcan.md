@@ -11,6 +11,21 @@ Art by Pixabay. Photo from Pixaline.
 
 ## Publications
 
+Solis Marroquín, D. A., Comayagua Martínez, J. O., Flores Cortez, O. O., Pocasangre Jiménez , C. O., Arévalo , F., & Miranda, B. H. (2025). 
+["Estación móvil para la detección de dióxido de carbono en suelo volcánico"](https://camjol.info/index.php/entorno/article/view/19715) 
+Entorno, 1(79), 44–59. https://doi.org/10.5377/entorno.v1i78.19715.
+
+O. O. Flores-Cortez, F. Arévalo, C. P. Jimenez, and B. Rivera, 
+[“Design and Implementation of a Georeferenced Multi-Sensor System for Monitoring 
+Volcanic Gases”](https://laccei.org/LACCEI2025-Mexico/meta/FP657.html), 
+23rd LACCEI International Multi-Conference for Engineering, Education, and Technology, México City, México, 2025, ISBN: 978-628-96613-1-6, doi: 10.18687/LACCEI2025.1.1.657.
+
+O. O. Flores-Cortez, C. O. Pocasangre, F. Arévalo, D. A. Solis, J. O. Comayagua and B. H. Miranda, 
+["IoT for CO2 Surveillance in Volcanic Soil Using a Web-Based Monitoring and the LI-830 sensor. 
+Study case in Cerro Pacho, El Salvador,"](https://ieeexplore.ieee.org/document/10759000) 
+2024 International Symposium on Networks, Computers and Communications (ISNCC), Washington DC, DC, USA, 2024, pp. 1-5, 
+doi: 10.1109/ISNCC62547.2024.10759000.
+
 C. O. Pocasangre, O. O. Flores-Cortez, F. Arévalo, C. Arriaza, O. Aguilar and B.
 H. Miranda, ["An IoT Mobile System for CO2 Monitoring in Volcanic Soil using the
 LI-830 Sensor and an Android App,"](https://www.researchgate.net/publication/375787786_An_IoT_Mobile_System_for_CO_2_Monitoring_in_Volcanic_Soil_using_the_LI-830_Sensor_and_an_Android_App) 2023 International Conference on Networking,

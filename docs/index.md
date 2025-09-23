@@ -31,3 +31,8 @@ Art by Pixabay. Photo from aled7.
 
 [![water.jpg](images_index/water.jpg)](research/water_quality.md)
 Art by Pixabay. Photo from Jan-Mallander. 
+
+## [Frequency Analysis on the Electrical Grid](research/frequency_analysis.md)
+
+[![grid.jpg](images_index/grid.jpg)](research/frequency_analysis.md)
+Art by Pixabay. Photo from klimkin.
