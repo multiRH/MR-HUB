@@ -2,6 +2,15 @@
 
 ## Journals
 
+Flores Cortez, O. O., Arevalo, F., & Pocasangre Jiménez, C. O. (2025). 
+["Propuesta de metodología de diseño estratificado para sistemas IoT: 
+Un marco para proyectos de investigación académica."](https://camjol.info/index.php/entorno/article/view/19713) 
+Entorno, 1(79), 25–35. https://doi.org/10.5377/entorno.v1i78.19713. 
+
+Solis Marroquín, D. A., Comayagua Martínez, J. O., Flores Cortez, O. O., Pocasangre Jiménez , C. O., Arévalo , F., & Miranda, B. H. (2025). 
+["Estación móvil para la detección de dióxido de carbono en suelo volcánico"](https://camjol.info/index.php/entorno/article/view/19715) 
+Entorno, 1(79), 44–59. https://doi.org/10.5377/entorno.v1i78.19715.
+
 Castillo-Rosales, B. A., Segovia-López, L. D., Pocasangre, C., Flores, O. O., &
 Arevalo-Navas, F. (2024). ["Estudio de calidad del aire presente en el área metropolitana
 y su estado respecto a los índices centroamericanos en el contorno de la Universidad de El Salvador."](https://www.researchgate.net/publication/384775832_Estudio_de_calidad_del_aire_presente_en_el_area_metropolitana_y_su_estado_respecto_a_los_indices_centroamericanos_en_el_contorno_de_la_Universidad_de_El_SalvadorStudy_of_air_quality_in_the_metropolita)
@@ -26,6 +35,11 @@ in Geoinformation and Cartography. Springer, Cham. https://doi.org/10.1007/978-
 
 
 ## Proceedings
+
+O. O. Flores-Cortez, F. Arévalo, C. P. Jimenez, and B. Rivera, 
+[“Design and Implementation of a Georeferenced Multi-Sensor System for Monitoring 
+Volcanic Gases”](https://laccei.org/LACCEI2025-Mexico/meta/FP657.html), 
+23rd LACCEI International Multi-Conference for Engineering, Education, and Technology, México City, México, 2025, ISBN: 978-628-96613-1-6, doi: 10.18687/LACCEI2025.1.1.657.
 
 O. O. Flores-Cortez, F. Arévalo and C. P. Jimenez, ["Portable IoT-Based System for GIS Mapping of Urban Noise: 
 a Case Study in Downtown San Salvador,"](https://www.researchgate.net/publication/392634811_Portable_IoT-Based_System_for_GIS_Mapping_of_Urban_Noise_a_Case_Study_in_Downtown_San_Salvador) 2025 IEEE Conference on Technologies for Sustainability (SusTech), 

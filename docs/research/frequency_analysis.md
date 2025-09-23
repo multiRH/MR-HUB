@@ -9,18 +9,14 @@ Art by Pixabay. Photo from Vladimir Fill.
 
 ## Publications
 
-J. G. Lúe, C. A. Arce, C. O. Pocasangre, O. O. Flores-Cortez, F. Arévalo, 
-M. Arrieta, J. M. Ramos, W. D. Meléndez, and J. R. Ramos, 
-["Analysis of Frequency in El Salvador’s Power Grid: 
-Understanding the period of 2022 to 2023,"](https://ieeexplore.ieee.org/document/10933888) 
+J. G. Lúe González, C. A. Arce Aráuz, C. O. Pocasangre, O. O. Flores-Cortez, F. Arévalo, M. R. Arrieta Paternina, J. M. Ramos Guerrero, 
+W. D. Meléndez Valle and J. R. Ramos López, ["Analysis of Frequency in El Salvador’s Power Grid: Understanding the period of 2022 to 2023"](https://www.researchgate.net/publication/390221656_Analysis_of_Frequency_in_El_Salvador's_Power_Grid_Understanding_the_period_of_2022_to_2023), 
 2024 IEEE 42nd Central America and Panama Convention (CONCAPAN XLII), San Jose, Costa Rica, 2024, pp. 1-6, 
-doi: 10.1109/CONCAPAN63470.2024.10933888.
+doi: 10.1109/CONCAPAN63470.2024.10933888. 
 
-J. G. Lúe, C. A. Arce, C. O. Pocasangre, O. O. Flores-Cortez, F. Arévalo, 
-M. Arrieta, J. M. Ramos, W. D. Meléndez, and J. R. Ramos, 
-["Descriptive Analysis of Frequency on the Electrical Grid in El Salvador. 
-A Preliminary Approach from September 2022 to June 2023,"](https://ieeexplore.ieee.org/document/10891093) 
-2024 IEEE Central America and Panama Student Conference (CONESCAPAN), Panama, Panama, 2024, pp. 1-6, 
-doi: 10.1109/CONESCAPAN62181.2024.10891093.
+González, J.G., Arauz, C.A., Jimenez, C.P., Flores-Cortez, O.O., Arévalo, F., Paternina, M.R., Guerrero, J.M., Valle, W.D., and López, J.R., 
+"Descriptive Analysis of Frequency on the Electrical Grid in El Salvador. 
+A Preliminary Approach from September 2022 to June 2023," 2024 IEEE Central America and Panama Student Conference (CONESCAPAN), 
+Panama, Panama, 2024, pp. 1-6, doi: 10.1109/CONESCAPAN62181.2024.10891093.
 
 
