@@ -34,5 +34,5 @@ Art by Pixabay. Photo from Jan-Mallander.
 
 ## [Frequency Analysis on the Electrical Grid](research/frequency_analysis.md)
 
-[![grid.jpg](images_index/FREQ.jpg)](research/frequency_analysis.md)
+[![FREQ.jpg](images_index/FREQ.jpg)](research/frequency_analysis.md)
 Art by Pixabay. Photo from Vladimir Fill. 
