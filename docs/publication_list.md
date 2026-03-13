@@ -36,6 +36,8 @@ in Geoinformation and Cartography. Springer, Cham. https://doi.org/10.1007/978-
 
 ## Proceedings
 
+Jiménez, C. O. P., Flores-Cortez, O. O., Arévalo, F., González, J. G. L., Arauz, C. A. A., Paternina, M. R. A., ... & López, J. R. R. (2025, December). Application of Long Short-Term Memory Networks to Predict Electrical Frequency in El Salvador. In 2025 IEEE International Conference on Machine Learning and Applied Network Technologies (ICMLANT) (pp. 1-6). IEEE. 10.1109/ICMLANT68509.2025.11394737
+
 O. O. Flores-Cortez, F. Arévalo, C. P. Jimenez, and B. Rivera, 
 [“Design and Implementation of a Georeferenced Multi-Sensor System for Monitoring 
 Volcanic Gases”](https://laccei.org/LACCEI2025-Mexico/meta/FP657.html), 
