@@ -36,6 +36,12 @@ in Geoinformation and Cartography. Springer, Cham. https://doi.org/10.1007/978-
 
 ## Proceedings
 
+Reyes, G. M., Reyes, N. J., Jiménez, C. O. P., Flores-Cortez, O. O., & Arévalo, F. (2025, September). ["Low-Cost Object Size Estimation Using ESP32-CAM and Computer Vision."](https://doi.org/10.1109/CONESCAPAN67936.2025.11229816) In 2025 IEEE Central America and Panama Student Conference (CONESCAPAN) (pp. 1-6). IEEE.
+
+Del Cid, J. S. R., Zepeda, C. M. R., Escobar, L. R. R., Jiménez, C. O. P., Flores-Cortez, O. O., & Arévalo, F. (2025, September). ["Correlation Analysis and Air Quality Index for CO 2 and TVOC in Downtown San Salvador, El Salvador."](https://doi.org/10.1109/CONESCAPAN67936.2025.11229804) In 2025 IEEE Central America and Panama Student Conference (CONESCAPAN) (pp. 1-6). IEEE.
+
+Hernández, M. D. J. P., Chicas, B. S. L., Jiménez, C. O. P., Flores-Cortez, O. O., Arévalo, F., Paternina, M. R. A., ... & López, J. R. R. (2025, September). ["Correlation analysis of temperature and frequency disturbance events focusing on peak hours and weather season between El Salvador and Mexico: A case study from 2022 to 2024."](https://doi.org/10.1109/CONESCAPAN67936.2025.11229582) In 2025 IEEE Central America and Panama Student Conference (CONESCAPAN) (pp. 1-6). IEEE.
+
 Jiménez, C. O. P., Flores-Cortez, O. O., Arévalo, F., González, J. G. L., Arauz, C. A. A., Paternina, M. R. A., ... & López, J. R. R. (2025, December). ["Application of Long Short-Term Memory Networks to Predict Electrical Frequency in El Salvador"](10.1109/ICMLANT68509.2025.11394737) In 2025 IEEE International Conference on Machine Learning and Applied Network Technologies (ICMLANT) (pp. 1-6). IEEE. 
 
 O. O. Flores-Cortez, F. Arévalo, C. P. Jimenez, and B. Rivera, 
