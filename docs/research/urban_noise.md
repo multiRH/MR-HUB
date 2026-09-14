@@ -7,6 +7,11 @@ Art by Pixabay. Photo from aled7.
 
 ## Publications
 
+Flores-Cortez, O.O., Pocasangre Jiménez, C.O., Arévalo, F. (2026). “A Low-Cost Portable MIoT System for Noise
+and Air Pollution Spatial Profiling: A Case Study in San Salvador”. In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds)
+Environmental Science and Technology: Sustainable Development IV. ICEST 2025. Environmental Science and
+Engineering. Springer, Cham. https://doi.org/10.1007/978-3-032-19811-2_20
+
 O. O. Flores-Cortez, F. Arévalo and C. P. Jimenez, 
 ["Portable IoT-Based System for GIS Mapping of Urban Noise: a Case Study in Downtown San Salvador,"](https://ieeexplore.ieee.org/document/11025801)
 2025 IEEE Conference on Technologies for Sustainability (SusTech), Los Angeles, CA, USA, 2025, pp. 1-7, 

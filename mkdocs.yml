@@ -8,9 +8,10 @@ nav:
       - Urban Noise: research/urban_noise.md
       - Volcanic Activity: research/volcan.md
       - Water Quality: research/water_quality.md
-  - Conferences: conferences_2025.md
+      - Frequency Analysis: research/frequency_analysis.md
+#  - Conferences: conferences_2025.md
   - Publications: publication_list.md
-  - News: latest_2025.md
+#  - News: latest_2025.md
   - About: about.md
 
 theme:

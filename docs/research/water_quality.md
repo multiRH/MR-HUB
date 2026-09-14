@@ -11,6 +11,11 @@ Art by Pixabay. Photo from Jan-Mallander.
 
 ## Publications
 
+W. D. M. Valle, C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, J. Angulo, G. Barahona, O. Flores, C. Silva, "A
+Low-Cost LoRa-Enabled IoT Weather Station: A Case Study in an Aquaculture Field in El Salvador," 2025 IEEE
+43rd Central America and Panama Convention (CONCAPAN XLIII), San Salvador, El Salvador, 2025, pp. 1-6,
+doi: 10.1109/CONCAPAN66820.2025.11512349.
+
 O. O. Flores-Cortez, J. M. Castro Elizondo, A. C. Flores Portillo, F. Arévalo
 and C. O. Pocasangre, ["An IoT-Based System for Water Parameters Monitoring.
 Case Study: Fish Farming in El Salvador,"](https://www.researchgate.net/publication/382128143_An_IoT-Based_System_for_Water_Parameters_Monitoring_Case_Study_Fish_Farming_in_El_Salvador) 2024 IEEE International Workshop on

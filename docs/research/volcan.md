@@ -11,6 +11,8 @@ Art by Pixabay. Photo from Pixaline.
 
 ## Publications
 
+
+
 Solis Marroquín, D. A., Comayagua Martínez, J. O., Flores Cortez, O. O., Pocasangre Jiménez , C. O., Arévalo , F., & Miranda, B. H. (2025). 
 ["Estación móvil para la detección de dióxido de carbono en suelo volcánico"](https://camjol.info/index.php/entorno/article/view/19715) 
 Entorno, 1(79), 44–59. https://doi.org/10.5377/entorno.v1i78.19715.

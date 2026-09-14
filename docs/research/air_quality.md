@@ -11,6 +11,21 @@ Art by Pixabay. Photo from SD-Pictures.
 
 ## Publications
 
+Flores-Cortez, O.O., Pocasangre Jiménez, C.O., Arévalo, F. (2026). “A Low-Cost Portable MIoT System for Noise
+and Air Pollution Spatial Profiling: A Case Study in San Salvador”. In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds)
+Environmental Science and Technology: Sustainable Development IV. ICEST 2025. Environmental Science and
+Engineering. Springer, Cham. https://doi.org/10.1007/978-3-032-19811-2_20
+
+Flores-Cortez, O.O., Pocasangre, C., Arévalo, F. (2026). “An M-IoT-Based System for Atmospheric Emission
+Monitoring and Mapping: A Case Study in San Salvador”. In: Auer, M.E., Langmann, R., May, D., Morales, M.
+(eds) Smart Technologies for an All-Electric Society. STE 2025. Lecture Notes in Networks and Systems, vol 1663.
+Springer, Cham. https://doi.org/10.1007/978-3-032-07333-4_16
+
+J. S. R. D. Cid, C. M. R. Zepeda, L. R. R. Escobar, C. O. P. Jiménez, O. O. Flores-Cortez and F. Arévalo,
+"Correlation Analysis and Air Quality Index for CO2 and TVOC in Downtown San Salvador, El Salvador," 2025
+IEEE Central America and Panama Student Conference (CONESCAPAN), Tegucigalpa, Honduras, 2025, pp. 1-6,
+doi: 10.1109/CONESCAPAN67936.2025.11229804.
+
 O. O. Flores-Cortez, C. O. Pocasangre, F. Arevalo, B. A. Castillo and L. D. Segovia, 
 ["Mobile Air Quality Sensor System for GIS Mapping, Study Case in San Salvador City,"](https://ieeexplore.ieee.org/document/10755697) 
 2024 IEEE ANDESCON, Cusco, Peru, 2024, pp. 1-6, doi: 10.1109/ANDESCON61840.2024.10755697.

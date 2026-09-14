@@ -20,6 +20,22 @@ De El Salvador, 7(3), 119–128. https://doi.org/10.5377/revminerva.v7i3.18911.
 
 ## Chapters
 
+Flores-Cortez, O.O., Jiménez, C.O.P., Arévalo, F., Galán, R.G., Hernández, S., Landaverde, M.Z. (2026).
+“Temporal Analysis of Mangrove Cover Dynamics Using Remote Sensing and GIS in the Ramsar Site of Jiquilisco
+Bay, El Salvador”. In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds) Environmental Science and Technology:
+Sustainable Development IV. ICEST 2025. Environmental Science and Engineering. Springer, Cham.
+https://doi.org/10.1007/978-3-032-19811-2_10
+
+Flores-Cortez, O.O., Pocasangre Jiménez, C.O., Arévalo, F. (2026). “A Low-Cost Portable MIoT System for Noise
+and Air Pollution Spatial Profiling: A Case Study in San Salvador”. In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds)
+Environmental Science and Technology: Sustainable Development IV. ICEST 2025. Environmental Science and
+Engineering. Springer, Cham. https://doi.org/10.1007/978-3-032-19811-2_20
+
+Flores-Cortez, O.O., Pocasangre, C., Arévalo, F. (2026). “An M-IoT-Based System for Atmospheric Emission
+Monitoring and Mapping: A Case Study in San Salvador”. In: Auer, M.E., Langmann, R., May, D., Morales, M.
+(eds) Smart Technologies for an All-Electric Society. STE 2025. Lecture Notes in Networks and Systems, vol 1663.
+Springer, Cham. https://doi.org/10.1007/978-3-032-07333-4_16
+
 Flores-Cortez, O.O., Arévalo, F., Pocasangre, C.O., Mejia, J., Mármol, M. (2025). ["Geothermal Heat Flux Mapping Using 
 Satellite Remote Sensing, Case Studies in the Hot Springs of El Salvador: San Vicente, Ahuachapán, San Miguel and La Union"](https://link.springer.com/chapter/10.1007/978-3-031-85324-1_2). 
 In: Nesmachnow, S., Hernández Callejo, L. (eds) Smart Cities. ICSC-CITIES 2024. Communications in Computer and Information Science, 
@@ -36,6 +52,7 @@ in Geoinformation and Cartography. Springer, Cham. https://doi.org/10.1007/978-
 
 ## Proceedings
 
+<<<<<<< HEAD
 Reyes, G. M., Reyes, N. J., Jiménez, C. O. P., Flores-Cortez, O. O., & Arévalo, F. (2025, September). ["Low-Cost Object Size Estimation Using ESP32-CAM and Computer Vision."](https://doi.org/10.1109/CONESCAPAN67936.2025.11229816) In 2025 IEEE Central America and Panama Student Conference (CONESCAPAN) (pp. 1-6). IEEE.
 
 Del Cid, J. S. R., Zepeda, C. M. R., Escobar, L. R. R., Jiménez, C. O. P., Flores-Cortez, O. O., & Arévalo, F. (2025, September). ["Correlation Analysis and Air Quality Index for CO 2 and TVOC in Downtown San Salvador, El Salvador."](https://doi.org/10.1109/CONESCAPAN67936.2025.11229804) In 2025 IEEE Central America and Panama Student Conference (CONESCAPAN) (pp. 1-6). IEEE.
@@ -43,6 +60,48 @@ Del Cid, J. S. R., Zepeda, C. M. R., Escobar, L. R. R., Jiménez, C. O. P., Flor
 Hernández, M. D. J. P., Chicas, B. S. L., Jiménez, C. O. P., Flores-Cortez, O. O., Arévalo, F., Paternina, M. R. A., ... & López, J. R. R. (2025, September). ["Correlation analysis of temperature and frequency disturbance events focusing on peak hours and weather season between El Salvador and Mexico: A case study from 2022 to 2024."](https://doi.org/10.1109/CONESCAPAN67936.2025.11229582) In 2025 IEEE Central America and Panama Student Conference (CONESCAPAN) (pp. 1-6). IEEE.
 
 Jiménez, C. O. P., Flores-Cortez, O. O., Arévalo, F., González, J. G. L., Arauz, C. A. A., Paternina, M. R. A., ... & López, J. R. R. (2025, December). ["Application of Long Short-Term Memory Networks to Predict Electrical Frequency in El Salvador"](10.1109/ICMLANT68509.2025.11394737) In 2025 IEEE International Conference on Machine Learning and Applied Network Technologies (ICMLANT) (pp. 1-6). IEEE. 
+=======
+C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, J. Lúe, C. Arce, M. Arrieta, J. Ramos, W. Meléndez, J. Ramos,
+"Application of Long Short-Term Memory Networks to Predict Electrical Frequency in El Salvador," 2025 IEEE
+International Conference on Machine Learning and Applied Network Technologies (ICMLANT), San Salvador, El
+Salvador, 2025, pp. 1-6, doi: 10.1109/ICMLANT68509.2025.11394737.
+
+O. O. Flores-Cortez, E. R. Valdez, V. A. Polanco-Zepeda, C. P. Jimenez and F. Arévalo, "Design and
+Implementation of a Decentralized Social Finance Network Based on the CAW Manifesto," 2025 IEEE 43rd
+Central America and Panama Convention (CONCAPAN XLIII), San Salvador, El Salvador, 2025, pp. 1-6, doi:
+10.1109/CONCAPAN66820.2025.11512553.
+
+W. D. M. Valle, C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, J. Angulo, G. Barahona, O. Flores, C. Silva, "A
+Low-Cost LoRa-Enabled IoT Weather Station: A Case Study in an Aquaculture Field in El Salvador," 2025 IEEE
+43rd Central America and Panama Convention (CONCAPAN XLIII), San Salvador, El Salvador, 2025, pp. 1-6,
+doi: 10.1109/CONCAPAN66820.2025.11512349.
+
+V. A. Polanco-Zepeda, O. O. Flores-Cortez, C. P. Jimenez and F. Arévalo, "A Low-Cost IoT System for Radiation
+Monitoring and Visualization Using a Geiger-Müller Sensor: A Case Study at the Dosimetric Calibration
+Laboratory in El Salvador," 2025 IEEE 43rd Central America and Panama Convention (CONCAPAN XLIII), San
+Salvador, El Salvador, 2025, pp. 1-6, doi: 10.1109/CONCAPAN66820.2025.11512623.
+
+O. O. Flores-Cortez, A. Oviedo-Argueta, J. M. C. Rodríguez, M. R. Alvarado-Palacios, C. O. P. Jiménez and F.
+Arévalo, "A Low-Cost IoT-Cloud-Based System for Environmental Monitoring in Poultry Farms: A Case Study
+in Rural El Salvador," 2025 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and
+Communication Technologies (CHILECON), Valparaíso, Chile, 2025, pp. 1-6, doi:
+10.1109/CHILECON66915.2025.11476124.
+
+G. M. Reyes, N. J. Reyes, C. O. P. Jiménez, O. O. Flores-Cortez and F. Arévalo, "Low-Cost Object Size Estimation
+Using ESP32-CAM and Computer Vision," 2025 IEEE Central America and Panama Student Conference
+(CONESCAPAN), Tegucigalpa, Honduras, 2025, pp. 1-6, doi: 10.1109/CONESCAPAN67936.2025.11229816.
+
+M. d. J. P. Hernández, B. Larin, C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, M. Arrieta, J. Ramos, W.
+Meléndez, J. Ramos, "Correlation analysis of temperature and frequency disturbance events focusing on peak hours
+and weather season between El Salvador and Mexico: A case study from 2022 to 2024," 2025 IEEE Central
+America and Panama Student Conference (CONESCAPAN), Tegucigalpa, Honduras, 2025, pp. 1-6, doi:
+10.1109/CONESCAPAN67936.2025.11229582.
+
+J. S. R. D. Cid, C. M. R. Zepeda, L. R. R. Escobar, C. O. P. Jiménez, O. O. Flores-Cortez and F. Arévalo,
+"Correlation Analysis and Air Quality Index for CO2 and TVOC in Downtown San Salvador, El Salvador," 2025
+IEEE Central America and Panama Student Conference (CONESCAPAN), Tegucigalpa, Honduras, 2025, pp. 1-6,
+doi: 10.1109/CONESCAPAN67936.2025.11229804.
+>>>>>>> af733a9 (adding publications, and information to mangrove)
 
 O. O. Flores-Cortez, F. Arévalo, C. P. Jimenez, and B. Rivera, 
 [“Design and Implementation of a Georeferenced Multi-Sensor System for Monitoring 
