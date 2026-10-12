@@ -13,6 +13,6 @@ O.O. Flores-Cortez, C. Pocasangre, F. Arévalo, R. G. Galán, S. Hernández, and
 [“Temporal Analysis of Mangrove Cover Dynamics Using Remote Sensing and GIS in the Ramsar Site of Jiquilisco Bay, El Salvador”](https://www.researchgate.net/publication/405253467_Temporal_Analysis_of_Mangrove_Cover_Dynamics_Using_Remote_Sensing_and_GIS_in_the_Ramsar_Site_of_Jiquilisco_Bay_El_Salvador). 
 In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds) Environmental Science and Technology:
 Sustainable Development IV. ICEST 2025. Environmental Science and Engineering. Springer, Cham.
-[https://doi.org/10.1007/978-3-032-19811-2_10](https://doi.org/10.1007/978-3-032-19811-2_10).
+[doi: 10.1007/978-3-032-19811-2_10](https://doi.org/10.1007/978-3-032-19811-2_10).
 
 

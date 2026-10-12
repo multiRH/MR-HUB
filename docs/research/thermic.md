@@ -15,11 +15,11 @@ O.O. Flores-Cortez, F. Arévalo, C. Pocasangre, J. Mejia, and M. Mármol (2025).
 ["Geothermal Heat Flux Mapping Using Satellite Remote Sensing, Case Studies in the Hot Springs of El Salvador: San Vicente, Ahuachapán, San Miguel and La Union"](https://link.springer.com/chapter/10.1007/978-3-031-85324-1_2). 
 In: Nesmachnow, S., Hernández Callejo, L. (eds) Smart Cities. ICSC-CITIES 2024. Communications in Computer and Information Science, 
 vol 2394. Springer, Cham. 
-[https://doi.org/10.1007/978-3-031-85324-1_2](https://doi.org/10.1007/978-3-031-85324-1_2).
+[doi: 10.1007/978-3-031-85324-1_2](https://doi.org/10.1007/978-3-031-85324-1_2).
 
 O.O. Flores-Cortez, C. Pocasangre, F. Arévalo, and S. Hernández (2024). 
 ["Estimation of Land Surface Temperature Using Satellite Remote Sensing, a Case Study in the Cities from El Salvador: Berlin, Alegría, and Santiago de María."](https://www.researchgate.net/publication/385633564_Estimation_of_Land_Surface_Temperature_Using_Satellite_Remote_Sensing_a_Case_Study_in_the_Cities_from_El_Salvador_Berlin_Alegria_and_Santiago_de_Maria) In: Carlos-Martinez,
 H., Tapia-McClung, R., Moctezuma-Ochoa, D.A., Alegre-Mondragón, A.J. (eds)
 Recent Developments in Geospatial Information Sciences. iGISc 2023. Lecture Notes
 in Geoinformation and Cartography. Springer, Cham. 
-[https://doi.org/10.1007/978-3-031-61440-8_6](https://doi.org/10.1007/978-3-031-61440-8_6).
+[doi: 10.1007/978-3-031-61440-8_6](https://doi.org/10.1007/978-3-031-61440-8_6).

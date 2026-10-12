@@ -13,7 +13,8 @@ Art by Pixabay. Photo from Pixaline.
 
 D. A. Solis Marroquín, J. O. Comayagua Martínez, O.O. Flores-Cortez, C. Pocasangre, F. Arévalo, and B. H. Miranda. (2025). 
 ["Estación móvil para la detección de dióxido de carbono en suelo volcánico"](https://www.researchgate.net/publication/395209121_Estacion_movil_para_la_deteccion_de_dioxido_de_carbono_en_suelo_volcanico) 
-Entorno, 1(79), 44–59. [https://doi.org/10.5377/entorno.v1i78.19715](https://doi.org/10.5377/entorno.v1i78.19715).
+Entorno, 1(79), 44–59. 
+[doi: 10.5377/entorno.v1i78.19715](https://doi.org/10.5377/entorno.v1i78.19715).
 
 O. O. Flores-Cortez, F. Arévalo, C. P. Jimenez, and B. Rivera, 
 [“Design and Implementation of a Georeferenced Multi-Sensor System for Monitoring Volcanic Gases”](https://laccei.org/LACCEI2025-Mexico/meta/FP657.html), 

@@ -5,16 +5,19 @@
 O.O. Flores-Cortez, F. Arévalo, and C. Pocasangre (2025). 
 ["Propuesta de metodología de diseño estratificado para sistemas IoT: 
 Un marco para proyectos de investigación académica."](https://www.researchgate.net/publication/395210124_Propuesta_de_metodologia_de_diseno_estratificado_para_sistemas_IoT_Un_marco_para_proyectos_de_investigacion_academica) 
-Entorno, 1(79), 25–35. [https://doi.org/10.5377/entorno.v1i78.19713](https://doi.org/10.5377/entorno.v1i78.19713) . 
+Entorno, 1(79), 25–35. 
+[doi: 10.5377/entorno.v1i78.19713](https://doi.org/10.5377/entorno.v1i78.19713) . 
 
 D. A. Solis Marroquín, J. O. Comayagua Martínez, O.O. Flores-Cortez, C. Pocasangre, F. Arévalo, and B. H. Miranda. (2025). 
 ["Estación móvil para la detección de dióxido de carbono en suelo volcánico"](https://www.researchgate.net/publication/395209121_Estacion_movil_para_la_deteccion_de_dioxido_de_carbono_en_suelo_volcanico) 
-Entorno, 1(79), 44–59. [https://doi.org/10.5377/entorno.v1i78.19715](https://doi.org/10.5377/entorno.v1i78.19715).
+Entorno, 1(79), 44–59. 
+[doi: 10.5377/entorno.v1i78.19715](https://doi.org/10.5377/entorno.v1i78.19715).
 
 B. A. Castillo-Rosales, L. D. Segovia-López, C. Pocasangre, O.O. Flores-Cortez, and F. Arévalo. (2024). 
 ["Estudio de calidad del aire presente en el área metropolitana y su estado respecto a los índices centroamericanos en el contorno de la Universidad de El Salvador."](https://www.researchgate.net/publication/384775832_Estudio_de_calidad_del_aire_presente_en_el_area_metropolitana_y_su_estado_respecto_a_los_indices_centroamericanos_en_el_contorno_de_la_Universidad_de_El_Salvador)
 Revista Minerva: Revista Científica Multidisciplinaria De La Universidad
-De El Salvador, 7(3), 119–128. [https://doi.org/10.5377/revminerva.v7i3.18911](https://doi.org/10.5377/revminerva.v7i3.18911).
+De El Salvador, 7(3), 119–128. 
+[doi: 10.5377/revminerva.v7i3.18911](https://doi.org/10.5377/revminerva.v7i3.18911).
 
 
 ## Chapters
@@ -22,39 +25,40 @@ De El Salvador, 7(3), 119–128. [https://doi.org/10.5377/revminerva.v7i3.18911]
 O.O. Flores-Cortez, C. Pocasangre, F. Arévalo, J. A. Oviedo, and R. B. Garcia. (2026). 
 ["Development and Implementation of a Low-Cost IoT Network for Air Quality Monitoring in the Historic Downtown of San Salvador"](https://www.researchgate.net/publication/414910481_Development_and_Implementation_of_a_Low-Cost_IoT_Network_for_Air_Quality_Monitoring_in_the_Historic_Downtown_of_San_Salvador). 
 In: Marx Gómez, J., Sungkur, R.K., Pudaruth, S., Witte, JH., Schumann, G. (eds) Recent Advances in Information Systems. ICRAIS 2025. Progress in IS. Springer, Cham. 
-[https://doi.org/10.1007/978-3-032-14099-9_54](https://doi.org/10.1007/978-3-032-14099-9_54).
+[doi: 10.1007/978-3-032-14099-9_54](https://doi.org/10.1007/978-3-032-14099-9_54).
 
 O.O. Flores-Cortez, C. Pocasangre, F. Arévalo, R. G. Galán, S. Hernández, and M. Z. Landaverde (2026).
 [“Temporal Analysis of Mangrove Cover Dynamics Using Remote Sensing and GIS in the Ramsar Site of Jiquilisco Bay, El Salvador”](https://www.researchgate.net/publication/405253467_Temporal_Analysis_of_Mangrove_Cover_Dynamics_Using_Remote_Sensing_and_GIS_in_the_Ramsar_Site_of_Jiquilisco_Bay_El_Salvador). 
 In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds) Environmental Science and Technology:
 Sustainable Development IV. ICEST 2025. Environmental Science and Engineering. Springer, Cham.
-[https://doi.org/10.1007/978-3-032-19811-2_10](https://doi.org/10.1007/978-3-032-19811-2_10).
+[doi: 10.1007/978-3-032-19811-2_10](https://doi.org/10.1007/978-3-032-19811-2_10).
 
 O.O. Flores-Cortez, C. Pocasangre, and F. Arévalo (2026). 
 [“A Low-Cost Portable MIoT System for Noise and Air Pollution Spatial Profiling: A Case Study in San Salvador”](https://www.researchgate.net/publication/405253454_A_Low-Cost_Portable_MIoT_System_for_Noise_and_Air_Pollution_Spatial_Profiling_A_Case_Study_in_San_Salvador). 
 In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds)
 Environmental Science and Technology: Sustainable Development IV. ICEST 2025. Environmental Science and
 Engineering. Springer, Cham. 
-[https://doi.org/10.1007/978-3-032-19811-2_20](https://doi.org/10.1007/978-3-032-19811-2_20).
+[doi: 10.1007/978-3-032-19811-2_20](https://doi.org/10.1007/978-3-032-19811-2_20).
 
 O.O. Flores-Cortez, C. Pocasangre, and F. Arévalo (2026). 
 [“An M-IoT-Based System for Atmospheric Emission Monitoring and Mapping: A Case Study in San Salvador”](https://www.researchgate.net/publication/403749715_An_M-IoT-Based_System_for_Atmospheric_Emission_Monitoring_and_Mapping_A_Case_Study_in_San_Salvador). 
 In: Auer, M.E., Langmann, R., May, D., Morales, M.
 (eds) Smart Technologies for an All-Electric Society. STE 2025. Lecture Notes in Networks and Systems, vol 1663.
-Springer, Cham. [https://doi.org/10.1007/978-3-032-07333-4_16](https://doi.org/10.1007/978-3-032-07333-4_16).
+Springer, Cham. 
+[doi: 10.1007/978-3-032-07333-4_16](https://doi.org/10.1007/978-3-032-07333-4_16).
 
 O.O. Flores-Cortez, F. Arévalo, C. Pocasangre, J. Mejia, and M. Mármol (2025). 
 ["Geothermal Heat Flux Mapping Using Satellite Remote Sensing, Case Studies in the Hot Springs of El Salvador: San Vicente, Ahuachapán, San Miguel and La Union"](https://link.springer.com/chapter/10.1007/978-3-031-85324-1_2). 
 In: Nesmachnow, S., Hernández Callejo, L. (eds) Smart Cities. ICSC-CITIES 2024. Communications in Computer and Information Science, 
 vol 2394. Springer, Cham. 
-[https://doi.org/10.1007/978-3-031-85324-1_2](https://doi.org/10.1007/978-3-031-85324-1_2).
+[doi: 10.1007/978-3-031-85324-1_2](https://doi.org/10.1007/978-3-031-85324-1_2).
 
 O.O. Flores-Cortez, C. Pocasangre, F. Arévalo, and S. Hernández (2024). 
 ["Estimation of Land Surface Temperature Using Satellite Remote Sensing, a Case Study in the Cities from El Salvador: Berlin, Alegría, and Santiago de María."](https://www.researchgate.net/publication/385633564_Estimation_of_Land_Surface_Temperature_Using_Satellite_Remote_Sensing_a_Case_Study_in_the_Cities_from_El_Salvador_Berlin_Alegria_and_Santiago_de_Maria) In: Carlos-Martinez,
 H., Tapia-McClung, R., Moctezuma-Ochoa, D.A., Alegre-Mondragón, A.J. (eds)
 Recent Developments in Geospatial Information Sciences. iGISc 2023. Lecture Notes
 in Geoinformation and Cartography. Springer, Cham. 
-[https://doi.org/10.1007/978-3-031-61440-8_6](https://doi.org/10.1007/978-3-031-61440-8_6).
+[doi: 10.1007/978-3-031-61440-8_6](https://doi.org/10.1007/978-3-031-61440-8_6).
 
 
 ## Proceedings

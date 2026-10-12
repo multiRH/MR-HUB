@@ -12,7 +12,7 @@ O.O. Flores-Cortez, C. Pocasangre, and F. Arévalo (2026).
 In: Huang, G., Huang, G., Li, Y., Zeng, Y. (eds)
 Environmental Science and Technology: Sustainable Development IV. ICEST 2025. Environmental Science and
 Engineering. Springer, Cham. 
-[https://doi.org/10.1007/978-3-032-19811-2_20](https://doi.org/10.1007/978-3-032-19811-2_20).
+[doi: 10.1007/978-3-032-19811-2_20](https://doi.org/10.1007/978-3-032-19811-2_20).
 
 O. O. Flores-Cortez, F. Arévalo, and C. P. Jimenez, 
 ["Portable IoT-Based System for GIS Mapping of Urban Noise: a Case Study in Downtown San Salvador,"](https://www.researchgate.net/publication/392634811_Portable_IoT-Based_System_for_GIS_Mapping_of_Urban_Noise_a_Case_Study_in_Downtown_San_Salvador) 
