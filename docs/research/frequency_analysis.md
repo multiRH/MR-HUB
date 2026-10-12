@@ -9,25 +9,28 @@ Art by Pixabay. Photo from Vladimir Fill.
 
 ## Publications
 
-C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, J. Lúe, C. Arce, M. Arrieta, J. Ramos, W. Meléndez, J. Ramos,
-"Application of Long Short-Term Memory Networks to Predict Electrical Frequency in El Salvador," 2025 IEEE
-International Conference on Machine Learning and Applied Network Technologies (ICMLANT), San Salvador, El
-Salvador, 2025, pp. 1-6, doi: 10.1109/ICMLANT68509.2025.11394737.
+C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, J. Lúe, C. Arce, M. Arrieta, J. Ramos, W. Meléndez, and J. Ramos,
+["Application of Long Short-Term Memory Networks to Predict Electrical Frequency in El Salvador"](https://www.researchgate.net/publication/401005529_Application_of_Long_Short-Term_Memory_Networks_to_Predict_Electrical_Frequency_in_El_Salvador), 
+2025 IEEE International Conference on Machine Learning and Applied Network Technologies (ICMLANT), San Salvador, El
+Salvador, 2025, pp. 1-6, 
+[doi: 10.1109/ICMLANT68509.2025.11394737](https://doi.org/10.1109/ICMLANT68509.2025.11394737).
 
-M. d. J. P. Hernández, B. Larin, C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, M. Arrieta, J. Ramos, W.
-Meléndez, J. Ramos, "Correlation analysis of temperature and frequency disturbance events focusing on peak hours
-and weather season between El Salvador and Mexico: A case study from 2022 to 2024," 2025 IEEE Central
-America and Panama Student Conference (CONESCAPAN), Tegucigalpa, Honduras, 2025, pp. 1-6, doi:
-10.1109/CONESCAPAN67936.2025.11229582.
+M. d. J. P. Hernández, B. Larin, C. O. P. Jiménez, O. O. Flores-Cortez, F. Arévalo, M. Arrieta, M. Ramos, W.
+Meléndez, and J. Ramos, 
+["Correlation analysis of temperature and frequency disturbance events focusing on peak hours
+and weather season between El Salvador and Mexico: A case study from 2022 to 2024"](https://www.researchgate.net/publication/397634124_Correlation_analysis_of_temperature_and_frequency_disturbance_events_focusing_on_peak_hours_and_weather_season_between_El_Salvador_and_Mexico_A_case_study_from_2022_to_2024), 
+2025 IEEE Central America and Panama Student Conference (CONESCAPAN), Tegucigalpa, Honduras, 2025, pp. 1-6, 
+[doi: 10.1109/CONESCAPAN67936.2025.11229582](https://doi.org/10.1109/CONESCAPAN67936.2025.11229582).
 
-J. G. Lúe González, C. A. Arce Aráuz, C. O. Pocasangre, O. O. Flores-Cortez, F. Arévalo, M. R. Arrieta Paternina, J. M. Ramos Guerrero, 
-W. D. Meléndez Valle and J. R. Ramos López, ["Analysis of Frequency in El Salvador’s Power Grid: Understanding the period of 2022 to 2023"](https://www.researchgate.net/publication/390221656_Analysis_of_Frequency_in_El_Salvador's_Power_Grid_Understanding_the_period_of_2022_to_2023), 
+J. G. Lúe González, C. A. Arce Aráuz, C. O. Pocasangre, O. O. Flores-Cortez, F. Arévalo, M. R. Arrieta Paternina, J. M. Ramos Guerrero, W. D. Meléndez Valle, and J. R. Ramos López,
+["Analysis of Frequency in El Salvador’s Power Grid: Understanding the period of 2022 to 2023"](https://www.researchgate.net/publication/390221656_Analysis_of_Frequency_in_El_Salvador's_Power_Grid_Understanding_the_period_of_2022_to_2023), 
 2024 IEEE 42nd Central America and Panama Convention (CONCAPAN XLII), San Jose, Costa Rica, 2024, pp. 1-6, 
-doi: 10.1109/CONCAPAN63470.2024.10933888. 
+[doi: 10.1109/CONCAPAN63470.2024.10933888](https://doi.org/10.1109/CONCAPAN63470.2024.10933888). 
 
-González, J.G., Arauz, C.A., Jimenez, C.P., Flores-Cortez, O.O., Arévalo, F., Paternina, M.R., Guerrero, J.M., Valle, W.D., and López, J.R., 
-"Descriptive Analysis of Frequency on the Electrical Grid in El Salvador. 
-A Preliminary Approach from September 2022 to June 2023," 2024 IEEE Central America and Panama Student Conference (CONESCAPAN), 
-Panama, Panama, 2024, pp. 1-6, doi: 10.1109/CONESCAPAN62181.2024.10891093.
+J. G. González, C. A. Arauz, C. Pocasangre, O. O. Flores-Cortez, F. Arévalo, M. R. Paternina, J. M. Guerrero, W. D. Valle, and J. R. Ramos, 
+["Descriptive Analysis of Frequency on the Electrical Grid in El Salvador. A Preliminary Approach from September 2022 to June 2023"](), 
+2024 IEEE Central America and Panama Student Conference (CONESCAPAN), 
+Panama, Panama, 2024, pp. 1-6, 
+[doi: 10.1109/CONESCAPAN62181.2024.10891093](https://doi.org/10.1109/CONESCAPAN62181.2024.10891093).
 
 

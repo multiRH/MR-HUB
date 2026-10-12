@@ -2,13 +2,15 @@ site_name: Multi-Research-HUB
 nav:
   - Home: index.md
   - Research:
+      - Agriculture: research/agriculture.md
       - Air Quality: research/air_quality.md
+      - Frequency Analysis: research/frequency_analysis.md
       - Mangroves: research/mangroves.md
       - Thermic Heat: research/thermic.md
       - Urban Noise: research/urban_noise.md
       - Volcanic Activity: research/volcan.md
       - Water Quality: research/water_quality.md
-      - Frequency Analysis: research/frequency_analysis.md
+
 #  - Conferences: conferences_2025.md
   - Publications: publication_list.md
 #  - News: latest_2025.md

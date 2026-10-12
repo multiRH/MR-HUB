@@ -36,3 +36,9 @@ Art by Pixabay. Photo from Jan-Mallander.
 
 [![FREQ.jpg](images_index/FREQ.jpg)](research/frequency_analysis.md)
 Art by Pixabay. Photo from Vladimir Fill. 
+
+## [Agriculture](research/agriculture.md)
+
+[![cacao.jpg](images_index/cacao.png)](research/agriculture.md)
+Art by Pixabay. Photo from Maliflac. 
+
